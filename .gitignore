@@ -1,0 +1,11 @@
+_backup/
+_temp/
+
+# ignore all hosts excepts __new_host which is framework for new hosts
+hosts/*
+!hosts/__new_host/
+
+logs/
+node_modules/
+public/
+ssl/
