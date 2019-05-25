@@ -1,11 +1,17 @@
-_backup/
+node_modules/
+logs/
+_*/
+ssl/
+
+_others/
 _temp/
+_archives/
+archives/
 
 # ignore all hosts excepts __new_host which is framework for new hosts
 hosts/*
 !hosts/_new_host/
+!hosts/_new_host/*
 
-logs/
-node_modules/
-public/
-ssl/
+public/*
+!public/home.html

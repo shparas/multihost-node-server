@@ -1,0 +1,3 @@
+{   
+  "ignore": ["*/public/*", ".git", ".gitignore", "*_data.json"]
+}
