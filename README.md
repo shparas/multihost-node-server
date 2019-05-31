@@ -10,7 +10,7 @@ Edit app.js for the ssl directories (or set portS = 0 to ignore ssl)
 
 Run "npm install" in the root directories to install required dependencies
 
-Create directory inside hosts. Directory name should be same as the host name. Eg localhost, 127.0.0.1, www.eparas.com, eparas.com, test.eparas.com
+Make a copy of new_host directory inside hosts and rename it to the same as the host name. Eg localhost, 127.0.0.1, www.eparas.com, eparas.com, test.eparas.com
 
 Run as "nodemon app.js" or "sudo nodemon app.js"
 
