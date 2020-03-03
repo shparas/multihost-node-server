@@ -1,4 +1,8 @@
+[![Build status](https://dev.azure.com/shparas97/sigmoid-pay-client/_apis/build/status/sigmoid-pay-client-CI)](https://dev.azure.com/shparas97/sigmoid-pay-client/_build/latest?definitionId=4)
+
 # multihost_node_server
+[![Build status](https://dev.azure.com/shparas97/sigmoid-pay-client/_apis/build/status/sigmoid-pay-client-CI)](https://dev.azure.com/shparas97/sigmoid-pay-client/_build/latest?definitionId=4)
+
 Multi-host server in node.js using Express
 
 To use:
